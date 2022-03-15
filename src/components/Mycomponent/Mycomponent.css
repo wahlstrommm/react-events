@@ -1,0 +1,13 @@
+h3{
+  color: white; 
+}
+.container{
+    background-color: rgba(201, 201, 201, 0.354);
+    width: 40%;
+    padding-top: 20px;
+    border-radius: 10px;
+}
+.root{
+    display: flex;
+    justify-content: center;
+}
